@@ -74,11 +74,11 @@ Removed Soy Sauce!
 
 Would You Like to Return to Home (y/n): no
 
+Thank you for using Fresh Tracker! May all your food BE FRESH!
+
 # Contributors
 Hezekiah C. Gatela (Interface, if statements)
 Rile Vince W. Soledad (day logic)
-
-Thank you for using Fresh Tracker! May all your food BE FRESH!
 
 
 
