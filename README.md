@@ -15,4 +15,66 @@ This is a program where it reminds people when products expire, make grocery lis
 -Alerts when the product is near its expiry date.
 
 -Adds a special tab for coupons and vouchers.
-##
+## How to Run Program:
+-Install Python.
+
+-Download file "fresh_tracker.py".
+
+-Open Command Prompt.
+
+-Run or Press F5.
+
+-Follow instructions.
+## Example Output:
+Fresh Tracker!
+
+Press key corresponding to the choice you want to pick + Enter
+
+Expiry Date - 1
+
+Grocery List - 2
+
+Calculator - 3
+
+Enter Choice (1/2/3) : 2
+
+
+
+
+
+
+Grocery List
+
+Add Product - 1
+
+Remove Product - 2
+
+Enter Choice (1/2) : 2
+
+
+
+
+
+
+
+Remove Product
+
+Soy Sauce - 1
+
+Ice Cream - 2
+
+Toilet Paper - 3
+
+Enter Choice: 1
+
+
+
+
+Removed Soy Sauce!
+
+Would You Like to Return to Home (y/n): no
+
+Thank you for using Fresh Tracker! May all your food BE FRESH!
+
+
+
