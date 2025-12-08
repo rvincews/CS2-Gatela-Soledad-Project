@@ -1,4 +1,4 @@
-![alt text]([https://github.com/rvincews/CS2-Gatela-Soledad-Project/blob/main/Fresh%20Tracker!%20Secondary%20Logo%20(compressed).png])
+![alt text](https://github.com/rvincews/CS2-Gatela-Soledad-Project/blob/main/Fresh%20Tracker!%20Secondary%20Logo%20(compressed).png?raw=true)
 # CS2
 Grade 8 Computer Science 2
 # Project Title: Fresh Tracker!
