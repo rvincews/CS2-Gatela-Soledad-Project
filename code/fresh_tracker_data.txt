@@ -1,0 +1,5 @@
+EXPIRY
+banana|2026-05-05
+banana|2026-05-02
+EXPIRED
+GROCERY
